@@ -210,6 +210,13 @@ Brotli, Zstandard and ar, cpio, jar, tar, zip, dump, 7z, arj.
       <version>6.0.0</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.rediscover4j</groupId>
+      <artifactId>reDiscover4j</artifactId>
+      <version>0.0.1</version>
+      <scope>system</scope>
+      <systemPath>${env.RED4JCP}</systemPath>
+  </dependency>
   </dependencies>
 
   <developers>

@@ -8,3 +8,6 @@ target
 *~
 /.externalToolBuilders/
 /maven-eclipse.xml
+red4j-data/
+**/cp.txt
+**.java.orig
